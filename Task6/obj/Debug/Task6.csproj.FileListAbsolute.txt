@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\bin\Debug\Task6.exe.config
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\bin\Debug\Task6.exe
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\bin\Debug\Task6.pdb
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\obj\Debug\Task6.exe
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\obj\Debug\Task6.pdb
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
