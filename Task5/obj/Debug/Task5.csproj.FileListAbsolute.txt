@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\bin\Debug\Task5.exe.config
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\bin\Debug\Task5.exe
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\bin\Debug\Task5.pdb
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\obj\Debug\Task5.exe
+\\Mac\Home\Desktop\projects\Учебная практика\Task1\Task5\obj\Debug\Task5.pdb
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\bin\Debug\Task5.exe.config
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\bin\Debug\Task5.exe
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\bin\Debug\Task5.pdb
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\obj\Debug\Task5.exe
+\\Mac\Home\Desktop\projects\Учебная практика-репозиторий\Task5\obj\Debug\Task5.pdb
