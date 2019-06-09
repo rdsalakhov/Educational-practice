@@ -18,7 +18,7 @@ namespace Task5
             get { return xLength; }
             set
             {
-                if (value <= 0) throw new InvalidLenghtException("Количество столбцов не может быть меньше или равно нулю", value);
+                if (value < 0) throw new InvalidLenghtException("Количество столбцов не может быть меньше нуля", value);
                 else xLength = value;
             }
         }
@@ -28,7 +28,7 @@ namespace Task5
             get { return yLength; }
             set
             {
-                if (value <= 0) throw new InvalidLenghtException("Количество строк не может быть меньше или равно нулю", value);
+                if (value < 0) throw new InvalidLenghtException("Количество строк не может быть меньше нуля", value);
                 else yLength = value;
             }
         }
@@ -131,13 +131,22 @@ namespace Task5
 
         public void Print()
         {
-            for (int x = 0; x < XLength; x++)
+            if (this.XLength == 0 || this.YLength == 0)
             {
-                for (int y = 0; y < YLength; y++)
+                Console.WriteLine("В матрице отсутствуют элементы");
+            }
+            else
+            {
+                Console.WriteLine("Матрица:");
+                for (int x = 0; x < XLength; x++)
                 {
-                    Console.Write($"{this[x, y]} ");
+                    for (int y = 0; y < YLength; y++)
+                    {
+                        Console.Write($"{this[x, y]} ");
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine();
+
             }
         }
 
