@@ -1,0 +1,6 @@
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/bin/Debug/Task11.exe
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/bin/Debug/Task11.pdb
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/obj/Debug/Task11.csprojAssemblyReference.cache
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/obj/Debug/Task11.csproj.CoreCompileInputs.cache
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/obj/Debug/Task11.exe
+/Users/romansalakhov/Desktop/projects/Учебная практика/Task11/obj/Debug/Task11.pdb
