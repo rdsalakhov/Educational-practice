@@ -1,0 +1,173 @@
+{
+  "protocol_version" : "0.0.1",
+  "configuration" : {
+    "version" : "5.16.0.221 (2018-06/b63e5378e38 Mon Nov 19 18:08:09 EST 2018)",
+    "tlc" : "normal",
+    "sigsgev" : "altstack",
+    "notifications" : "kqueue",
+    "architecture" : "amd64",
+    "disabled_features" : "none",
+    "smallconfig" : "disabled",
+    "bigarrays" : "disabled",
+    "softdebug" : "enabled",
+    "interpreter" : "enabled",
+    "llvm_support" : "3.6.0svn-mono-release_60/0b3cb8ac12c"
+  },
+  "memory" : {
+    "Resident Size" : "16035840",
+    "Virtual Size" : "4446584832",
+    "minor_gc_time" : "0",
+    "major_gc_time" : "0",
+    "minor_gc_count" : "0",
+    "major_gc_count" : "0",
+    "major_gc_time_concurrent" : "0"
+  },
+  "threads" : [
+    {
+      "is_managed" : false,
+      "managed_thread_ptr" : "0x0",
+      "thread_info_addr" : "0x0",
+      "thread_name" : "Finalizer",
+      "native_thread_id" : "0x9ce1000",
+      "ctx" : {
+        "IP" : "0x7fff7a96c266",
+        "SP" : "0x700009ce0da8",
+        "BP" : "0x700009ce0e50"
+      },
+      "unmanaged_frames" : [
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        }
+      ]
+    },
+    {
+      "is_managed" : false,
+      "managed_thread_ptr" : "0x0",
+      "thread_info_addr" : "0x0",
+      "thread_name" : "Debugger agent",
+      "native_thread_id" : "0xa16a000",
+      "ctx" : {
+        "IP" : "0x7fff7a9722c6",
+        "SP" : "0x70000a169818",
+        "BP" : "0x70000a169850"
+      },
+      "unmanaged_frames" : [
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        }
+      ]
+    },
+    {
+      "is_managed" : false,
+      "managed_thread_ptr" : "0x0",
+      "thread_info_addr" : "0x0",
+      "thread_name" : "tid_307",
+      "native_thread_id" : "0x178e65c0",
+      "ctx" : {
+        "IP" : "0x7fff7a96c332",
+        "SP" : "0x7ffee4415278",
+        "BP" : "0x7ffee4415280"
+      },
+      "unmanaged_frames" : [
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "native_address" : "unregistered"
+        }
+      ]
+    }
+  ]}
