@@ -1,0 +1,6 @@
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/bin/Debug/Utilities.dll
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/bin/Debug/Utilities.pdb
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/obj/Debug/Utilities.csprojAssemblyReference.cache
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/obj/Debug/Utilities.csproj.CoreCompileInputs.cache
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/obj/Debug/Utilities.dll
+/Users/romansalakhov/Desktop/projects/Учебная практика/Utilities/obj/Debug/Utilities.pdb
